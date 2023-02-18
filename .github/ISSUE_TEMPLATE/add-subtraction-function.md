@@ -27,8 +27,8 @@ Create a new `subtract` branch from `main` to work in.
 Create a new `subtract.py` file in the `pythoncalculator/` directory.
 
 ```python
-def subtract(x, y):
-    return y - y
+def subtract(x, y)
+    return x - y
 
 ```
 
